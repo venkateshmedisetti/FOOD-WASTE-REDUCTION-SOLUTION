@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Food Waste Reduction Solution</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Food Waste Reduction Solution</h1>
+    <p>Save Food • Save Money • Save the Planet</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#causes">Causes</a>
+    <a href="#solutions">Solutions</a>
+    <a href="#donate">Donate</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Food Waste</h2>
+    <p>
+        Food waste is a major global issue that affects the environment, economy, 
+        and food security. Millions of tons of food are wasted every year while 
+        many people suffer from hunger.
+    </p>
+</section>
+
+<section id="causes">
+    <h2>Causes of Food Waste</h2>
+    <ul>
+        <li>Overbuying and poor meal planning</li>
+        <li>Improper food storage</li>
+        <li>Large portion sizes</li>
+        <li>Lack of awareness</li>
+    </ul>
+</section>
+
+<section id="solutions">
+    <h2>Prevention & Solutions</h2>
+    <ul>
+        <li>Plan meals before shopping</li>
+        <li>Store food properly</li>
+        <li>Donate excess food</li>
+        <li>Compost food waste</li>
+    </ul>
+</section>
+
+<section id="donate">
+    <h2>Food Donation</h2>
+    <p>
+        Excess food can be donated to NGOs, shelters, and food banks 
+        to help people in need and reduce waste.
+    </p>
+    <button>Find Donation Centers</button>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: support@foodwaste.org</p>
+    <p>Phone: +91 98765 43210</p>
+</section>
+
+<footer>
+    <p>© 2025 Food Waste Reduction Solution | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
